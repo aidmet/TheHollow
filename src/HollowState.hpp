@@ -1,5 +1,7 @@
 #pragma once
 
+// Central ARG state: story phase, skull bitmask, journal clues, Geode save keys.
+
 #include <Geode/Geode.hpp>
 #include <array>
 #include <string>

@@ -11,6 +11,10 @@
 	"version": "v1.0.0",
 	"developer": "GDPlatformMaker",
 	"description": "An in-game ARG. Find the hollow before it finds you.",
+	"links": {
+		"source": "https://github.com/aidmet/TheHollow",
+		"homepage": "https://github.com/aidmet/TheHollow"
+	},
 	"dependencies": {
 		"geode.node-ids": ">=v1.23.3"
 	},
